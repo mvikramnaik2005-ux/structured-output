@@ -1,0 +1,6 @@
+{
+  "name": "AI Structured JSON Generator with Validation and Auto-Retry",
+  "description": "Beginner-friendly Python OpenAI + Pydantic JSON validator and auto-retry project with an interactive full-stack validation workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
